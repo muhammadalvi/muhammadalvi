@@ -24,4 +24,11 @@ Here are some ideas to get you started:
 <!--     https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+<!--     <a href="https://www.muhammadalvi.com"> -->
+<!--    https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white -->
+<!--     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> -->
+<!--   </a>
+    <a href="https://linkedin.com/in/muhammadalvi">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+  </a> -->
 </div>
